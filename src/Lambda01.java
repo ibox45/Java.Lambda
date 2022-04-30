@@ -152,4 +152,6 @@ public class Lambda01 {
                 // filter(t -> t > 34).//lambda exp.
                         forEach(Lambda01::yazdir);
     }
+
+
 }
