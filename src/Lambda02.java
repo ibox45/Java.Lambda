@@ -15,7 +15,7 @@ public class Lambda02 {
         System.out.println("\n   ***   ");
         maxElBul(sayi);
         System.out.println("\n   ***   ");
-        ciftKarteMaxBul(sayi);
+        ciftKareMaxBul(sayi);
         System.out.println("\n   ***   ");
         elTopla( sayi);
         System.out.println("\n   ***   ");
@@ -76,7 +76,7 @@ public class Lambda02 {
     }
 
     // Task : List'in cift elemanlarin karelerinin en buyugunu print ediniz
-    public static void ciftKarteMaxBul(List<Integer> sayi) {
+    public static void ciftKareMaxBul(List<Integer> sayi) {
 
         System.out.println(sayi.
                 stream().
